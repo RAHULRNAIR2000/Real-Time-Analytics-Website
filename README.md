@@ -8,4 +8,4 @@ controller
 
 
 service - in service layer a scheduled function is running every second and sends data to the databsase
-controller-
+controller-in controller Get request is used to get the count of elements stored in the databse
